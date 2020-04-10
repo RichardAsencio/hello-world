@@ -1,2 +1,4 @@
 # hello-world
-A simple GitHub practice repo
+A simple GitHub practice repo.
+
+This is my 2nd GitHub practice repo. I worked this same exercise yesterday (April 10, 2020), but out of impatience deviated from the exercise simple steps and tried to assign a contributor (assignee or reviewver) from a secondary GitHub account but couldn't do so. So I tried having the main and secondary GitHub accounts to follow each other, but couldn't assign the secondary account as an assignee or reviewer to the main one, so I then forked the repo from the secondary GitHub, tried doing issues and a pull request from the main account, then from the secondary account, then did some merges. However, my edits wouldn't show up at my GitHub main account master branch. By this time I was lost. Tried looking into the thread of commits and pulls, merges, etc. but couldn't make sense of the spaguetti-like workflow. So after some three hours struggling, I  deleted the repo; first the forked version at the secondary account and then at the main account, and vowed to do it again as it is, and only then, at a later time, do a second round messing with it.
